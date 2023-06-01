@@ -1,6 +1,6 @@
 Olá!! Eu sou o Pedro Vinicius
 
-- 📚 Estudando Desenvolvimento Front-End e Design UI/UX
+- 📚 Estudando Desenvolvimento Front-End 
 - 💻 Apaixonado por Tecnologia
 - 💖 Amo criar e recriar tudo que é possível 
 
